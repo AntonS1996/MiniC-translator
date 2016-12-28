@@ -1,0 +1,15 @@
+﻿Сборка начата 28.12.2016 15:12:38.
+     1>Проект "C:\Users\Samsung\Downloads\Translator\Scaner\Scaner\Scaner.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Scaner.cpp
+         Scaner.cpp
+     1>c:\users\samsung\downloads\translator\scaner\scaner\scaner.cpp(386): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\samsung\downloads\translator\scaner\scaner\scaner.cpp(374): warning C4715: StringTable::getStringFromStringTable: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Samsung\Downloads\Translator\Scaner\Debug\Scaner.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Samsung\Downloads\Translator\Scaner\Debug\Scaner.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Samsung\Downloads\Translator\Scaner\Debug\Scaner.lib" /MACHINE:X86 Debug\Scaner.obj
+         Scaner.vcxproj -> C:\Users\Samsung\Downloads\Translator\Scaner\Debug\Scaner.exe
+     1>Сборка проекта "C:\Users\Samsung\Downloads\Translator\Scaner\Scaner\Scaner.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:07.18
