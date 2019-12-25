@@ -6,3 +6,5 @@ MiniC Translator takes input from ".minic" file which contains the code of a pro
 This program is written on C++.
 
 The project was completed by me in spring 2016.
+
+P. S. Completly version
